@@ -11,6 +11,11 @@
     "react-dom": "^18.2.0",
     "spectacle": "^10.1.7"
   },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
   "devDependencies": {
     "@babel/core": "^7.17.2",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
