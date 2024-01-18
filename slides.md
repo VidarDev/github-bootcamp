@@ -123,6 +123,12 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+## Fusionner la branch `feature/swag`
+- **Commande**: `git merge feature/swag`
+- **Description**: Intégrer les changements de la branche `feature/swag` dans la branche principale.
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
