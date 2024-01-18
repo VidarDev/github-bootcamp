@@ -18,14 +18,32 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 ---
 
 ## Commandes de Base
-- **Statut**: `gss` pour un aperçu rapide.
-- **Ajout de Fichiers**: Utilisez `gaa` pour ajouter tous les fichiers.
+- **Statut**: pour un aperçu rapide.
+
+```
+gss
+```
+
+- **Ajout de Fichiers**: pour ajouter tous les fichiers.
+
+```
+gaa
+```
 
 ---
 
 ## Visualisation des Commits
-- **Historique**: `glgg` pour une vue graphique.
-- **Détails des Commits**: `glol` montre plus d'informations.
+- **Historique**: pour une vue graphique.
+
+```
+glgg
+```
+
+- **Détails des Commits**: montre plus d'informations.
+
+```
+glol
+```
 
 ---
 
@@ -38,3 +56,33 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 ## Travail Collaboratif
 - **Pull Requests**: La clé pour une collaboration efficace.
 - **Résolution de Conflits**: Techniques pour gérer les conflits.
+
+---
+
+## Création d'alias
+
+Remplacez **"Votre nom complet"** par le nom associé à vos commits dans Git.
+Cette commande crée un alias nommé today qui exécute la commande log de Git avec des paramètres spécifiques pour filtrer les commits de la journée actuelle.
+
+```
+git config --global alias.today "log --since=midnight --author='Votre nom complet' --oneline"
+```
+
+---
+
+- Sélectionne les commits faits depuis minuit aujourd'hui.
+```
+--since=midnight
+```
+
+- Filtre les commits pour n'afficher que ceux faits par l'auteur spécifié.
+
+```
+--author='Votre nom complet
+```
+
+- Affiche chaque commit sur une seule ligne pour une meilleure lisibilité.
+
+```
+--oneline
+```
