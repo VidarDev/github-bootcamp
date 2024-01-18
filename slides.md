@@ -107,18 +107,13 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
-## Fusionner la Branche sur Main
-- **Étapes**:
-    1. Basculer vers la branche principale: `git checkout main`
-    2. Fusionner la branche: `git merge feature/branching`
-- **But**: Intégrer les nouvelles fonctionnalités dans la branche principale.
+# Gestion de Branches avec Git
 
 ---
 
-## Supprimer une Branche
-- **Commande**: `git branch -d feature/branching`
-- **Raison**: Nettoyer les branches inutilisées après la fusion.
-- **Sécurité**: Git empêche la suppression de branches non fusionnées.
+## Créer une nouvelle branch : `feature/swag`
+- **Commande**: `git branch feature/swag`
+- **Description**: Création d'une branche pour le développement de la fonctionnalité 'swag'.
 
 ---
 
