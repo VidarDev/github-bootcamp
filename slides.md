@@ -129,6 +129,19 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+# Création de Slides en Markdown
+
+---
+
+## Slide: Texte
+Ajoutez du texte de démonstration ici.
+
+```markdown
+texte de démonstration ici.
+```
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
