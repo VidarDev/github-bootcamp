@@ -154,6 +154,16 @@ Créer des exemples de listes à puces ou numérotées.
 
 ---
 
+## Slide: Images
+
+Insérer une image de démonstration.
+
+```markdown
+![My Image](https://i.imgur.com/1.png)
+```
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
