@@ -32,3 +32,9 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 ## Gestion des Branches
 - **Création de Branches**: Apprenez à créer et à changer de branches.
 - **Fusion**: Techniques de fusion pour maintenir l'intégrité du code.
+
+---
+
+## Travail Collaboratif
+- **Pull Requests**: La clé pour une collaboration efficace.
+- **Résolution de Conflits**: Techniques pour gérer les conflits.
