@@ -175,6 +175,17 @@ Exemples d'utilisation d'en-têtes et de citations.
 
 ---
 
+## Slide: Code
+Afficher un exemple de bloc de code.
+
+```markdown
+```
+code
+```
+```
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
