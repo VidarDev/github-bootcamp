@@ -105,6 +105,13 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 - **Focus**: Faire des changements spécifiques à une fonctionnalité sur cette branche.
 - **Avantage**: Sépare le développement de nouvelles fonctionnalités du travail principal.
 
+---
+
+## Fusionner la Branche sur Main
+- **Étapes**:
+    1. Basculer vers la branche principale: `git checkout main`
+    2. Fusionner la branche: `git merge feature/branching`
+- **But**: Intégrer les nouvelles fonctionnalités dans la branche principale.
 
 ---
 
