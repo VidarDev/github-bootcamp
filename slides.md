@@ -134,10 +134,22 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 ---
 
 ## Slide: Texte
+
 Ajoutez du texte de démonstration ici.
 
 ```markdown
 texte de démonstration ici.
+```
+
+---
+
+## Slide: Listes
+
+Créer des exemples de listes à puces ou numérotées.
+
+```markdown
+- Item 1
+- Item 2
 ```
 
 ---
