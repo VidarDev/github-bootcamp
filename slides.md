@@ -86,3 +86,9 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 ```
 --oneline
 ```
+
+---
+
+## Conclusion
+Git et Oh My Zsh sont des outils essentiels pour améliorer votre flux de travail.  
+Retrouvez plus de conseils et de commandes [sur le site de David Leuliette](https://davidl.fr/blog/git-cheatsheet).
