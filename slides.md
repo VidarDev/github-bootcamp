@@ -122,6 +122,15 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+## Transférer les modifications à distance
+
+Envoyez vos commits vers le référentiel distant. Utiliser:
+```console
+git push origin main
+```
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
