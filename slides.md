@@ -115,6 +115,16 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+## Supprimer une Branche
+- **Commande**: `git branch -d feature/branching`
+- **Raison**: Nettoyer les branches inutilisées après la fusion.
+- **Sécurité**: Git empêche la suppression de branches non fusionnées.
+
+---
+
 ## Conclusion
-Git et Oh My Zsh sont des outils essentiels pour améliorer votre flux de travail.  
+
+La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
+
+**Git** et **Oh My Zsh** sont des outils essentiels pour améliorer votre flux de travail.  
 Retrouvez plus de conseils et de commandes [sur le site de David Leuliette](https://davidl.fr/blog/git-cheatsheet).
