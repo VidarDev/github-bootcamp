@@ -14,3 +14,9 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 ## Configuration Initiale
 - **Oh My Zsh**: Un framework pour gérer votre configuration Zsh.
 - **Installation**: Suivez les étapes [ici](https://davidl.fr/blog/git-cheatsheet#section-1).
+
+---
+
+## Commandes de Base
+- **Statut**: `gss` pour un aperçu rapide.
+- **Ajout de Fichiers**: Utilisez `gaa` pour ajouter tous les fichiers.
