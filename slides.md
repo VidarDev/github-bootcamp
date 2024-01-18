@@ -173,6 +173,10 @@ Exemples d'utilisation d'en-têtes et de citations.
 ### En-tête de troisième niveau
 ```
 
+```markdown
+`Text`
+```
+
 ---
 
 ## Slide: Code
@@ -182,6 +186,15 @@ Afficher un exemple de bloc de code.
 ```
 code
 ```
+```
+
+---
+
+## Slide: Extras
+Ajouter des informations supplémentaires ou des astuces.
+
+```markdown
+> Ajouter des informations supplémentaires
 ```
 
 ---
