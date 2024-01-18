@@ -1,5 +1,7 @@
 # Github bootcamp
 
+State of progress : `102.3`
+
 | Update dependencies | NVM Version |
 |:--------------------|:------------| 
 | 18 January 2023      | `20`        |
@@ -24,15 +26,13 @@ Run the command:
 npm i
 ```
 
-## How to build projet ?
-
-Run the command:
+And build the project ;
 
 ```
 npm run build
 ```
 
-## How to run localhost ?
+## How to run in local ?
 
 Run the command:
 
@@ -44,7 +44,7 @@ npm start
 
 Don't want to install the project on your computer? Just follow the link below.
 
-🌍 [github-bootcamp](https://github-bootcamp-tan.vercel.app/?slideIndex=1&stepIndex=0)
+🌍 [github-bootcamp](https://github-bootcamp-tan.vercel.app/)
 
 ## Author
 
