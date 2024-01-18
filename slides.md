@@ -20,3 +20,9 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 ## Commandes de Base
 - **Statut**: `gss` pour un aperçu rapide.
 - **Ajout de Fichiers**: Utilisez `gaa` pour ajouter tous les fichiers.
+
+---
+
+## Visualisation des Commits
+- **Historique**: `glgg` pour une vue graphique.
+- **Détails des Commits**: `glol` montre plus d'informations.
