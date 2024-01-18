@@ -98,6 +98,13 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 - **Description**: Cette commande crée une nouvelle branche nommée `feature/branching`.
 - **Contexte**: Idéal pour développer de nouvelles fonctionnalités en parallèle.
 
+---
+
+## Travailler sur une Branche
+- **Commande**: `git checkout feature/branching`
+- **Focus**: Faire des changements spécifiques à une fonctionnalité sur cette branche.
+- **Avantage**: Sépare le développement de nouvelles fonctionnalités du travail principal.
+
 
 ---
 
