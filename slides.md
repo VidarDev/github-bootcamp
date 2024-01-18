@@ -164,6 +164,17 @@ Insérer une image de démonstration.
 
 ---
 
+## Slide: En-têtes & Citations
+Exemples d'utilisation d'en-têtes et de citations.
+
+```markdown
+# En-tête de premier niveau
+## En-tête de deuxième niveau
+### En-tête de troisième niveau
+```
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
