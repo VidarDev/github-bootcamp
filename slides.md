@@ -117,6 +117,12 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+## Basculer vers la branch principale
+- **Commande**: `gcm` (alias pour `git checkout main`)
+- **Description**: Revenir à la branche principale avant la fusion.
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
