@@ -122,6 +122,27 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+## Transférer les modifications à distance
+
+Envoyez vos commits vers le référentiel distant. Utiliser:
+```console
+git push origin main
+```
+
+---
+
+## Extraire les modifications depuis le remote
+
+- Pour mettre à jour votre repository local avec le dernier commit du remote repository, utilisez :
+
+```console
+git push origin main
+```
+
+- Remplacez `branch_name` par le nom de la branche à partir de laquelle vous souhaitez extraire. Si vous travaillez avec la branche principale, il s'agit souvent de `main` ou `master`.
+
+---
+
 ## Conclusion
 
 La **gestion des branches** est essentielle pour une collaboration efficace et une maintenance claire du code.
