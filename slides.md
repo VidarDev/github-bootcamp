@@ -107,18 +107,95 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
-## Fusionner la Branche sur Main
-- **Étapes**:
-    1. Basculer vers la branche principale: `git checkout main`
-    2. Fusionner la branche: `git merge feature/branching`
-- **But**: Intégrer les nouvelles fonctionnalités dans la branche principale.
+# Gestion de Branches avec Git
 
 ---
 
-## Supprimer une Branche
-- **Commande**: `git branch -d feature/branching`
-- **Raison**: Nettoyer les branches inutilisées après la fusion.
-- **Sécurité**: Git empêche la suppression de branches non fusionnées.
+## Créer une nouvelle branch : `feature/swag`
+- **Commande**: `git branch feature/swag`
+- **Description**: Création d'une branche pour le développement de la fonctionnalité 'swag'.
+
+---
+
+## Basculer vers la branch principale
+- **Commande**: `gcm` (alias pour `git checkout main`)
+- **Description**: Revenir à la branche principale avant la fusion.
+
+---
+
+## Fusionner la branch `feature/swag`
+- **Commande**: `git merge feature/swag`
+- **Description**: Intégrer les changements de la branche `feature/swag` dans la branche principale.
+
+---
+
+# Création de Slides en Markdown
+
+---
+
+## Slide: Texte
+
+Ajoutez du texte de démonstration ici.
+
+```markdown
+texte de démonstration ici.
+```
+
+---
+
+## Slide: Listes
+
+Créer des exemples de listes à puces ou numérotées.
+
+```markdown
+- Item 1
+- Item 2
+```
+
+---
+
+## Slide: Images
+
+Insérer une image de démonstration.
+
+```markdown
+![My Image](https://i.imgur.com/1.png)
+```
+
+---
+
+## Slide: En-têtes & Citations
+Exemples d'utilisation d'en-têtes et de citations.
+
+```markdown
+# En-tête de premier niveau
+## En-tête de deuxième niveau
+### En-tête de troisième niveau
+```
+
+```markdown
+`Text`
+```
+
+---
+
+## Slide: Code
+Afficher un exemple de bloc de code.
+
+```markdown
+```
+code
+```
+```
+
+---
+
+## Slide: Extras
+Ajouter des informations supplémentaires ou des astuces.
+
+```markdown
+> Ajouter des informations supplémentaires
+```
 
 ---
 
