@@ -89,6 +89,18 @@ git config --global alias.today "log --since=midnight --author='Votre nom comple
 
 ---
 
+## Gestion des Branches avec Git
+
+---
+
+## Créer une Nouvelle Branche
+- **Commande**: `git branch feature/branching`
+- **Description**: Cette commande crée une nouvelle branche nommée `feature/branching`.
+- **Contexte**: Idéal pour développer de nouvelles fonctionnalités en parallèle.
+
+
+---
+
 ## Conclusion
 Git et Oh My Zsh sont des outils essentiels pour améliorer votre flux de travail.  
 Retrouvez plus de conseils et de commandes [sur le site de David Leuliette](https://davidl.fr/blog/git-cheatsheet).
