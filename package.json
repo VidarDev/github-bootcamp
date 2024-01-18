@@ -13,7 +13,8 @@
   },
   "config": {
     "commitizen": {
-      "path": "cz-conventional-changelog"
+      "path": "git-cz",
+      "useEmoji": true
     }
   },
   "devDependencies": {
