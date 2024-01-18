@@ -26,3 +26,9 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 ## Visualisation des Commits
 - **Historique**: `glgg` pour une vue graphique.
 - **Détails des Commits**: `glol` montre plus d'informations.
+
+---
+
+## Gestion des Branches
+- **Création de Branches**: Apprenez à créer et à changer de branches.
+- **Fusion**: Techniques de fusion pour maintenir l'intégrité du code.
