@@ -13,7 +13,7 @@ Pour plus de détails, visitez [le cheat sheet de David Leuliette](https://david
 
 ## Configuration Initiale
 - **Oh My Zsh**: Un framework pour gérer votre configuration Zsh.
-- **Installation**: Suivez les étapes [ici](https://davidl.fr/blog/git-cheatsheet#section-1).
+- **Installation**: Suivez les [étapes pour configurer git et oh-my-zsh`](https://davidl.fr/blog/git-cheatsheet#section-1).
 
 ---
 
